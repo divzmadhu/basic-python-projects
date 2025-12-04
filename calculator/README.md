@@ -11,11 +11,11 @@
 ---
 ## How to Run
 1. Clone the repository:
-   git clone [https://github.com/divzmadhu/basic-python-projects/calculaor.py](https://github.com/divzmadhu/basic-python-projects/blob/main/calculator/simple_calculator.py)
+   git clone https://github.com/divzmadhu/basic-python-projects.git
 2. Navigate to the folder:
    cd basic-python-projects/calculator
 3. Run the program:
-   python temperature_converter.py
+   python simple_calculator.py
 ---
 ## Sample Input/Output
 **Input:**
@@ -52,4 +52,5 @@ Thank you!
  
  Beginner Python Developer
  
- Github: https://github.com/divzmadhu/temperature-converter
+ Github: https://github.com/divzmadhu/basic-python-projects
+
