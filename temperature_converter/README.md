@@ -10,9 +10,9 @@
 ---
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/<your-username>/temperature-converter.git
+   git clone https://github.com/divzmadhu/basic-python-projects.git
 2. Navigate to the folder:
-   cd temperature-converter
+   cd basic-python-projects/temperature-converter
 3. Run the program:
    python temperature_converter.py
 ---
@@ -43,4 +43,4 @@ Celcius      Fahrenheit     Kelvin
  
  Beginner Python Developer
  
- Github: https://github.com/divzmadhu/temperature-converter
+ Github: https://github.com/divzmadhu/basic-python-projects
